@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdalidate",
+        "uuid": 20740695,
+        "checksum": "wl85mg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
